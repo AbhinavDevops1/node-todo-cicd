@@ -35,7 +35,7 @@ describe("Test2", () => {
 	assert.equal(2 + 3, 5);
 	});
 
-	it("Is returning 8 when multiplying 2 * 4", () => {
+	it("Is return 8 when multiply 2 * 4", () => {
 	assert.equal(2*4, 8);
 	});
 });
